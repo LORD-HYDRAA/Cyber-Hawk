@@ -42,5 +42,6 @@ Cyber Hawk is a network security tool designed for educational and research purp
 
 ```bash
   git clone https://github.com/LORD-HYDRAA/Cyber-Hawk.git
+  cd Cyber-Hawk
   Cyber Hawk.exe  # Right-click and select "Run as administrator"
 ```
